@@ -7,7 +7,7 @@
 ![Code grade](https://www.code-inspector.com/project/27851/status/svg)
 
 ## Codacya Badge
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/SonikaAalla/Stepin_Librarymanagmentsystem?utm_source=github.com&utm_medium=referral&utm_content=SonikaAalla/Stepin_Librarymanagmentsystem&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2beb676d970f4be594e4681402073c6b)](https://www.codacy.com/gh/ENG230/M1_Librarymanagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ENG230/M1_Librarymanagement&amp;utm_campaign=Badge_Grade)
 
 ## Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/ENG230/M1_Librarymanagement/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ENG230/M1_Librarymanagement/actions/workflows/gitinspector.yml)
