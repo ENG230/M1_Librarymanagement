@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_implementation/test/test_library.c
+    - name: Build
+      run: Build -C 3_implementation/test/test_library.c
