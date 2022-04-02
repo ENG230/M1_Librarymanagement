@@ -1,9 +1,9 @@
 /**
  * @file main.c
- * @author your name (you@domain.com)
+ * @author Engile Arun Kumar (engilearunkumar77@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-07-11
+ * @date 2022-04-02
  * 
  * @copyright Copyright (c) 2021
  * 
