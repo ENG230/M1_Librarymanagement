@@ -10,11 +10,11 @@
 
 # **LIBRARY MANAGEMENT**
 
-Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
+The project titled Library Management  is Library Management software for monitoring and controlling the transactions in a library. The project “Library Management” is developed in C, which mainly focuses on basic operations in a library like adding new books, and return books, searching books and deleting books and updating new information.
 
-The project titled Library Management is Library Management software for monitoring and controlling the transactions in a library. The project “Library Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books.
+Library management is a project that looks up to store and control books information electronically according to students requirements. The system helps both students and library manager to keep an eye on all the books available in the library. It allows both the admin and the student to search for the book they wanted.
 
-This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
+Library Management is the system is an simple console application without graphics. In this project,the user can add,view,edit,search and delete book.All added and edited. 
 
 # Folder Structure
 |FOLDER|DESCRIPTION|
