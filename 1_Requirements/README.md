@@ -6,8 +6,7 @@ The project titled Library Management  is Library Management software for monito
 
 Library management is a project that looks up to store and control books information electronically according to students requirements. The system helps both students and library manager to keep an eye on all the books available in the library. It allows both the admin and the student to search for the book they wanted.
 
-Library Management is the system is an simple console application without graphics. In this project,the user can add,view,edit,search and delete book.All added and edited 
-records are saved in a file.Also,the user can list book by name,ISBN no.,Author name.
+Library Management is the system is an simple console application without graphics. In this project,the user can add,view,edit,search and delete book.All added and edited are saved in a fle.Also,the user can list book by name,ISBN ono.,Author name.
 
 File handling has been used to record all data. You will used data file, array and string to store the book name,subject and author name.
 
