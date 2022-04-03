@@ -4,9 +4,8 @@
 ![Code Quality Score](https://www.code-inspector.com/project/27851/score/svg)
 
 ## code grade
-![Code grade](https://www.code-inspector.com/project/27851/status/svg)
-
-## Codacya Badge
+![Code grade]
+## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2beb676d970f4be594e4681402073c6b)](https://www.codacy.com/gh/ENG230/M1_Librarymanagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ENG230/M1_Librarymanagement&amp;utm_campaign=Badge_Grade)
 
 ## Git Inspector
@@ -24,7 +23,8 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 # Folder Structure
 |FOLDER|DESCRIPTION|
 |:-----|:----------|
-|1_Requirements|Documents detailing requirements|
+|0_Certificates|Contains Certificates for linu|
+|1_Requirements|  requirements|
 |2_Architecture|Structural and Behavioural UML|
 |3_Implementation|All the code is written here|
 |4_TestPlanAndOutput|Documents with test plans and outputs|
