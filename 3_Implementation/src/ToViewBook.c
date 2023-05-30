@@ -29,3 +29,25 @@ test_merit ToViewBook()
     return pass;
     }
 }
+
+
+
+
+
+#include<iostream>
+using namespace std;
+
+struct atm {
+char account_no[11];
+char pin[4] ;
+
+};
+int main(){
+
+cin.getline(atm.account_no, sizeof(atm.account_no));
+
+cin.getline(atm.pin, sizeof(atm.pin));
+
+return 0;
+}
+
